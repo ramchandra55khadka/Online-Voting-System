@@ -3,7 +3,7 @@
 
 <div class="col-12 my-3">
      <p align="center">  &copy; Copyright 2024 -All Rights Reserved <br/>
-          Developed by ramchandrakhadka55.com.np
+          Developed by <a href="ramchandrakhadka55.com.np">ramchandrakhadka55.com.np</a>
      </p>
 </div>
 
