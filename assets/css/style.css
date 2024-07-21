@@ -1,0 +1,37 @@
+.text-white {
+  color: #fff;
+}
+.bg-white {
+  background-color: #fff;
+}
+.bg-black {
+  background-color: #000;
+}
+.text-black {
+  color: #000;
+}
+.bg-white1 {
+  background-color: #b5b5c7;
+}
+.bg-green {
+  background-color: #67c232;
+}
+.text-green {
+  color: #67c232;
+}
+.text-blue {
+  color: rgb(7, 7, 61);
+}
+.bg-pink {
+  background-color: rgb(139, 117, 183);
+}
+.candinate_photo {
+  width: 80px;
+  height: 80px;
+  border: 2px solid #67c232; /* Corrected the border color */
+  border-radius: 100%;
+  object-fit: cover; /* Ensures the image covers the element without stretching */
+}
+bg-gray {
+  background-color: rgb(102, 101, 105);
+}
